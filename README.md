@@ -6,7 +6,7 @@ A clean and minimal Flutter app for generating professional business quotes with
 ## Overview
 
 *Product Quote Builder* is a modern Flutter application designed to help users easily create, preview, and share product quotations with clients.  
-The app focuses on simplicity, accuracy, and user-friendly design — built entirely using Flutter’s frontend capabilities.
+The app focuses on simplicity, accuracy, and user-friendly design — built entirely using Flutter frontend capabilities.
 
 
 ## Features
